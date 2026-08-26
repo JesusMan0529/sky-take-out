@@ -2,7 +2,7 @@
   <img src="./食速达-logo.png" alt="食速达 Logo" width="260" />
 </p>
 
-<h1 align="center">食速达 - 综合购物商城系统</h1>
+<h1 align="center">食速达</h1>
 
 <p align="center">
   面向校园与本地生活场景的一体化购物平台<br />
